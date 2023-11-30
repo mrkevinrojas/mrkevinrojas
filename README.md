@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Kevin Rojas</h1>
 <h3 align="center">A passionate full-stack web developer from California.</h3>
 
